@@ -1,8 +1,8 @@
 <?php
-    $dsn ="mysql:host=localhost; dbname=ToDoList";
+    $dsn ="mysql:host=r4wkv4apxn9btls2.cbetxkdyhwsb.us-east-1.rds.amazonaws.com; dbname=dfvv81lj6eklmtd7";
 
-    $username = 'root';
-    $password = '4895698As';
+    $username = 'i8c6txpjqjnv3m2z';
+    $password = 'dx22ak3fex0owwm2';
     
     try
     {
